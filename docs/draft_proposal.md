@@ -15,4 +15,4 @@ The columns “MBTI”, “E”, “I”, “S”, “N”, “T”, “F”, �
 
 ![image](https://user-images.githubusercontent.com/90857782/216875984-2676d339-dba5-4399-840b-97898a030b3d.png)
 
-I plane to use logistic regression and Random Forest as my first classification models and choose the next model based on the results. I intend to try at least another 2 models depending on the data. 
+I plan to use logistic regression and Random Forest as my first classification models and choose the next model based on the results. I intend to try at least another 2 models depending on the data. 
