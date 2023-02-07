@@ -37,7 +37,7 @@ C - Flat back<br>
 D - Sway-back<br>
 The columns “MBTI”, “E”, “I”, “S”, “N”, “T”, “F”, “J”, “P” represent the scores of the participants from the Myers-Briggs personality test. This test aims helps to find the personality of the participant. The below mage gives the meanings of the letters used in the test. <br>
 
-
+## Developing the model
 I plan to use logistic regression and Random Forest as my first classification models and choose the next model based on the results. I intend to try at least another 2 models depending on the data.<br> 
 I will be using combination of Age, height, weight, Gender, activity level and results from the personality test as the parameters for the model to hopefully get a desired result. The pain columns would not be used, as the main objective of the project is to predict the posture of the participant just based on their personality. 
 
