@@ -2,8 +2,8 @@
 ## By: Suraj Rana Vujjini
 <br>
 
-### Link to the presentation:<br>
-### Link to the video: 
+### Link to the presentation: https://docs.google.com/presentation/d/15v05DpD-i7kaWssUfvfG6BGLxrze37xW/edit?usp=sharing&ouid=112873832330176038338&rtpof=true&sd=true<br>
+### Link to the video: https://youtu.be/aeAUozuTuhA
 <br>
 <br>
 
